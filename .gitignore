@@ -18,3 +18,4 @@ myvenv
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 myvenv/     # Ignore virtual environment directory if using Python
+.ipynb_checkpoints/
